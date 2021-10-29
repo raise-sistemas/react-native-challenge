@@ -4,7 +4,7 @@ Desafio para candidatos a vaga de programador React Native.
 
 # Calculadora
 
-Criar uma calculadora conforme a imagem abaixo e enviar o código e o QRCODE/url de teste para marcos.neves@gmail.com
+Criar uma calculadora conforme a imagem abaixo e enviar o código no github e o QRCODE/URL do https://snack.expo.dev/ para marcos.neves@gmail.com
 
 ## Requisitos / Restrições
 
